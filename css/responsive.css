@@ -1,0 +1,61 @@
+@media screen and (max-width:750px) {
+        *{
+                margin: auto;
+                padding: 0;
+        }
+        
+        .none{
+                display: none;
+        }
+
+        /*      partie3 */
+        .partie3{
+                display: block;
+        }
+
+        .p3-3 div img{
+                float: none;
+        }
+
+        .p5-1{
+                display: block;;
+        }
+
+        .partie6{
+                display: block;
+        }
+
+        .partie7{
+                display: block;
+        }
+
+        .partie8{
+                display: block;
+        }
+
+        .partie9{
+                display: block;
+                text-align: center;
+        }
+
+        /*      autre   */
+        .mobile{
+                display: block;
+        }
+
+        .web{
+                display: none;
+        }
+
+        .m-auto{
+                text-align: center;
+        }
+
+        .type1{
+                order: 1;
+        }
+
+        .type2{
+                order: 2;
+        }
+}

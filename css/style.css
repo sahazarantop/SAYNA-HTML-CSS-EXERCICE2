@@ -1,0 +1,163 @@
+/*partie1*/
+.partie1 ul{
+        display: flex;
+        list-style: none;
+        align-items: center;
+        justify-content: space-around;
+}
+
+.partie1 li{        
+        margin: 1em;
+        font-size: .5em;
+}
+
+.p1-2{
+        text-align: center;
+}
+
+.p1-3{
+        text-align: center;
+}
+
+.p1-3 button {
+        border: none;
+}
+
+.p1-4 {
+        text-align: center;
+}
+
+/*      partie2 */
+.p2-1 {
+        text-align: center;
+}
+
+.p2-2{
+        text-align: center;
+}
+
+/*      partie3 */
+.partie3{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+}
+
+.p3-2{
+        position: relative;
+        margin: 0 auto;
+}
+
+.p3-2II{
+        height: auto;
+}
+
+.p3-2I{
+        position: absolute;
+}
+
+.p3-3 div img{
+        float: right;
+}
+
+/*      partie4 */
+.partie4{
+        text-align: center;
+}
+
+/*      partie5 */
+.partie5 h2{
+        text-align: center;
+}
+
+.p5-1{
+        display: flex;
+        margin: auto;
+}
+
+figure{ 
+        margin: auto;
+        text-align: center;
+}
+
+/*      partie6 */
+.partie6{
+        display: flex;
+        margin: auto;
+}
+
+.p6-1{
+        position: relative;
+}
+
+.p6-1I{
+        position: absolute;
+}
+
+.p6-2 button {
+        border: none;
+}
+
+/*      partie7 */
+.partie7{
+        display: flex;
+        margin: auto;
+        align-items: center;
+}
+
+.partie7 button {
+        border: none;
+}
+
+/*      partie8 */
+.partie8{
+        display: flex;
+        width: 75vw;
+        text-align: center;
+        align-items: center;
+        margin: auto;
+}
+
+.partie8 div{
+        margin: auto;
+}
+
+.partie8 img{
+        width: 24vw;
+}
+
+.partie8 ul{
+        list-style: none;
+}
+
+/*      partie9 */
+.partie9{
+        display: flex;
+        justify-content: space-between;
+}
+
+/*      autre   */
+.web{
+        display: block;
+}
+
+.mobile{
+        display: none;
+}
+
+.align{
+        align-items: center;
+        margin: auto;
+        display: flex;
+        text-align: center;
+}
+
+
+.type1{
+        order: 2;
+}
+
+.type2{
+        order: 1;
+}
